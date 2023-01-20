@@ -3,7 +3,7 @@
 ## Installation
 
 ```
-git clone https://github.com/nicod12/Todo-Redux-Toolkit.git
+git clone https://github.com/nicod12/react-ob.git
 cd react-ob
 npm i
 npm run dev
